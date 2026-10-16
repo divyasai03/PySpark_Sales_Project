@@ -20,7 +20,6 @@ pyspark-dataframes-rdd-project/
 ├── README.md
 ├── 01_PySpark_Sales_Project.py
 ├── rdd_sales_demo.py
-└── PySpark_DataFrames_RDD_Project_Report.pdf
 ```
 
 ## Part 1: DataFrame Workflow
